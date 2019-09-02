@@ -21,7 +21,7 @@ Please cite our work if you find the code helpful.
   title = {Anchors Bring Ease: An Embarrassingly Simple Approach to Partial Multi-view Clustering},
   booktitle = {Proc. AAAI Conf. Artificial Intell. (AAAI)},
   address = {Honolulu, Hawaii},
-  pages = {},
+  pages = {118-125},
   month = {Jan.},
   year = {2019}
 }
