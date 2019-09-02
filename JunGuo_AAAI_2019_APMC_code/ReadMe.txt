@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Descripion: 
 This source code is for our paper
-Jun Guo and Jiahui Ye, "Anchors Bring Ease: An Embarrassingly 
+Jun Guo* and Jiahui Ye*, "Anchors Bring Ease: An Embarrassingly 
 Simple Approach to Partial Multi-view Clustering," in AAAI 2019.
   -Source code version 1.0  2018/11/20 by Jun Guo & Jiahui Ye
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
